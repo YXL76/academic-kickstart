@@ -1,2 +1,0 @@
-# Redirect default Netlify subdomain to primary domain
-http://yxl.netlify.com/* http://www.yxl76.top/:splat 301!
