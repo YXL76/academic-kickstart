@@ -5,33 +5,40 @@
 
 [[main]]
   name = "Home"
-  url = "#blank"
+  url = "https://www.yxl76.top/"
   weight = 10
 
-[[main]]
+[[main]]	
   name = "Posts"
   url = "#posts"
   weight = 20
 
-[[main]]
+[[main]]	
   name = "Projects"
   url = "#projects"
   weight = 30
 
 [[main]]
-  name = "Tutorials"
-  url = "/tutorial/"
+  name = "Featured"
+  url = "#featured"
   weight = 40
 
 [[main]]
-  name = "Featured"
-  url = "#featured"
+  name = "About"
+  identifier = "About"
   weight = 50
 
 [[main]]
-  name = "About"
+  name = "About Me"
   url = "#about"
+  parent = "About"
   weight = 60
+  
+[[main]]
+  name = "GitHub"
+  url = "https://github.com/YXL76"
+  parent = "About"
+  weight = 70	
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

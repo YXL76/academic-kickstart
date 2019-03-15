@@ -5,7 +5,7 @@
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
 # Title of your site
-title = "YXL的小屋"
+title = "YXL's Blog"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
@@ -65,3 +65,6 @@ preserveTaxonomyNames = true
   category = "categories"
   publication_type = "publication_types"
   author = "authors"
+
+[Permalinks]
+  post = "/blog/:slug/"
