@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Academic Kickstart"
+title = "YXL的小屋"
 subtitle = ""
 
 [design]
@@ -29,7 +29,7 @@ subtitle = ""
   # gradient_end = "ForestGreen"
   
   # Background image.
-  # image = "swd3e2 - -风中回奏-[pid=58485664].jpg"  # Name of image in `static/img/`.
+  image = "swd3e2 - -风中回奏-[pid=58485664].jpg"  # Name of image in `static/img/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
