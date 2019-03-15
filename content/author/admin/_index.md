@@ -16,16 +16,14 @@ role = "Student"
 organizations = [ { name = "Beijing University of Posts and Telecommunications", url = "https://www.bupt.edu.cn/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Lazy."
+bio = ""
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "chenxin.lan.76@gmail.com"
 
 # List (academic) interests or hobbies
 interests = [
-  "Artificial Intelligence",
-  "Computational Linguistics",
-  "Information Retrieval"
+  "Coding",
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -41,7 +39,7 @@ user_groups = ["Researchers", "Visitors"]
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+#   form "mailto:your-email@example.com" or "#contact" for contact widget.	
 
 # [[social]]
   # # icon = "envelope"
@@ -57,6 +55,4 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+This man is lazy, and there is nothing to say.
