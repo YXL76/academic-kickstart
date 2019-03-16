@@ -1,14 +1,13 @@
 +++
-# About/Biography widget.
-widget = "about"  # Do not modify this line!
+# Tag Cloud widget.
+widget = "tag_cloud"  # Do not modify this line!
 active = true  # Activate this widget? true/false
-weight = 140  # Order that this section will appear in.
 
-title = "Introduction"
+title = "热门话题"
+subtitle = ""
 
-# Choose the user profile to display
-# This should be the username of a profile in your `content/author/` folder.
-author = "admin"
+# Order that this section will appear in.
+weight = 120
 
 [design.background]
   # Apply a background color, gradient, or image.

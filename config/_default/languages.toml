@@ -7,13 +7,49 @@
   languageCode = "en-us"
 
 # Uncomment the lines below to configure your website in a second language.
-#[zh]
-#  languageCode = "zh-Hans"
-#  contentDir = "content/zh"
-#  title = "Chinese website title..."
-#  [zh.params]
-#    description = "Site description in Chinese..."
+[zh]
+  languageCode = "zh-Hans"
+  contentDir = "zh_content"
+  title = "YXL的小屋"
+  [zh.params]
+    description = "Site description in Chinese..."
 #  [[zh.menu.main]]
 #    name = "Wo"
 #    url = "#about"
 #    weight = 1
+[[zh.menu.main]]
+  name = "主页"
+  url = "https://www.yxl76.top/zh"
+  weight = 15
+
+[[zh.menu.main]]	
+  name = "发布"
+  url = "#posts"
+  weight = 25
+
+[[zh.menu.main]]	
+  name = "项目"
+  url = "#projects"
+  weight = 35
+
+[[zh.menu.main]]
+  name = "特色"
+  url = "#featured"
+  weight = 45
+
+[[zh.menu.main]]
+  name = "关于"
+  identifier = "About"
+  weight = 55
+
+[[zh.menu.main]]
+  name = "关于我"
+  url = "#about"
+  parent = "About"
+  weight = 65
+  
+[[zh.menu.main]]
+  name = "GitHub"
+  url = "https://github.com/YXL76"
+  parent = "About"
+  weight = 75

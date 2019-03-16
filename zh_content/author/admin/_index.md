@@ -9,11 +9,11 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Student"
+role = "学生"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Beijing University of Posts and Telecommunications", url = "https://www.bupt.edu.cn/" } ]
+organizations = [ { name = "北京邮电大学", url = "https://www.bupt.edu.cn/" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = ""
@@ -23,7 +23,7 @@ email = "chenxin.lan.76@gmail.com"
 
 # List (academic) interests or hobbies
 interests = [
-  "Coding",
+  "码代码",
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -70,4 +70,4 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-This man is lazy, and there is nothing to say.
+这个人很懒,什么都没有留下。
