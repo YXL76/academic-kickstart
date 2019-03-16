@@ -9,7 +9,7 @@ weight = 15  # Order that this section will appear.
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "YXL'的小屋"
-subtitle = "欢迎来到这里"
+subtitle = "欢迎来到这里！"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

@@ -12,7 +12,7 @@
   contentDir = "zh_content"
   title = "YXL的小屋"
   [zh.params]
-    description = "Site description in Chinese..."
+    description = ""
 #  [[zh.menu.main]]
 #    name = "Wo"
 #    url = "#about"
