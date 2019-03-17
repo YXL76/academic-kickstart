@@ -42,7 +42,7 @@ slug = "Introduction"
   preview_only = true
 
 [header]
-  image = "Introduction.jpg"
+  image = "Introduction.webp"
   caption = "图片来源: [**wlop**](https://www.deviantart.com/wlop/art/Connection-746661664/)"
 
 +++
