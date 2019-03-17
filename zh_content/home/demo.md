@@ -29,7 +29,7 @@ subtitle = "欢迎来到这里！"
   # gradient_end = "ForestGreen"
   
   # Background image.
-  image = "background-1.webp"  # Name of image in `static/img/`.
+  image = "Connection-746661664-by-wlop.webp"  # Name of image in `static/img/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
@@ -37,7 +37,7 @@ subtitle = "欢迎来到这里！"
 
 [advanced]
  # Custom CSS. 
- css_style = "padding-top: 20px; padding-bottom: 20px;"
+ css_style = "padding-top: 20px; padding-bottom: 20px; color: white;"
  
  # CSS class.
  css_class = ""

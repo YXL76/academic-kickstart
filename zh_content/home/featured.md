@@ -7,7 +7,7 @@ widget = "featured"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 weight = 80  # Order that this section will appear.
 
-title = "特色出版物"
+title = "特色文章"
 subtitle = ""
 
 [content]
@@ -48,15 +48,15 @@ subtitle = ""
   # gradient_end = "SkyBlue"
   
   # Background image.
-  image = "background-1.webp"  # Name of image in `static/img/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  image = "Connection-746661664-by-wlop.webp"  # Name of image in `static/img/`.
+  image_darken = 0.3  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
   text_color_light = true  
   
 [advanced]
  # Custom CSS. 
- css_style = ""
+ css_style = "color: white;"
  
  # CSS class.
  css_class = ""

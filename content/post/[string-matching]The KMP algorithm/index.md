@@ -1,11 +1,11 @@
 +++
-title = "介绍"
+title = "[String Matching]The KMP Algorithm"
 subtitle = ""
 
 # Add a summary to display on homepage (optional).
-summary = "第一篇博客。"
+summary = ""
 
-date = 2019-03-15T21:56:56+08:00
+date = 2019-03-18T00:48:50+08:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -16,8 +16,8 @@ featured = false
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["杂谈"]
-categories = ["杂谈"]
+tags = ["algorithm"]
+categories = ["algorithm"]
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -26,8 +26,6 @@ categories = ["杂谈"]
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 # projects = ["internal-project"]
-
-slug = "Introduction"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -40,15 +38,8 @@ slug = "Introduction"
   focal_point = ""
 
   preview_only = true
-
+  
 [header]
-  image = "Connection-746661664-by-wlop.webp"
-  caption = "图片来源: [**wlop**](https://www.deviantart.com/wlop/art/Connection-746661664/)"
-
+  image = "【東方】「はかなき夢ぞ命なりける」「KiTA」[pid=62341877].webp"
+  caption = "Image credit: [**KiTA**](https://www.pixiv.net/member_illust.php?mode=medium&illust_id=62341877/)"
 +++
-
-大家好，我是YXL。
-
-这是我的第一篇博客。
-
-从今天开始，我将在[www.yxl76.top](https://www.yxl76.top/)发布我的博文。

@@ -42,7 +42,7 @@ slug = "Introduction"
   preview_only = true
 
 [header]
-  image = "Introduction.webp"
+  image = "Connection-746661664-by-wlop.webp"
   caption = "Image credit: [**wlop**](https://www.deviantart.com/wlop/art/Connection-746661664/)"
 
 +++
