@@ -1,48 +1,24 @@
-# Navigation Links
-#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
-#     desired widget in your `content/home/` folder.
-#   The weight parameter defines the order that the links will appear in.
-
 [[main]]
-  name = "Home"
-  url = "https://www.yxl76.top/en"
+  name = "About"
+  url = ""
   weight = 10
 
 [[main]]	
-  name = "Posts"
-  url = "#posts"
+  name = "Post"
+  url = "/post"
   weight = 20
 
 [[main]]	
-  name = "Projects"
-  url = "#projects"
+  name = "Categories"
+  url = "/categories"
+  weight = 30
+
+[[main]]	
+  name = "Tags"
+  url = "/tags"
   weight = 30
 
 [[main]]
-  name = "Featured"
-  url = "#featured"
-  weight = 40
-
-[[main]]
-  name = "About"
-  identifier = "About"
-  weight = 50
-
-[[main]]
-  name = "About Me"
-  url = "#about"
-  parent = "About"
-  weight = 60
-  
-[[main]]
   name = "GitHub"
   url = "https://github.com/YXL76"
-  parent = "About"
   weight = 70
-
-# Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[main]]
-#    name = "CV"
-#    url = "files/cv.pdf"
-#    weight = 70
