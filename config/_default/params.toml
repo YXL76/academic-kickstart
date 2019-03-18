@@ -1,6 +1,6 @@
 color_theme = "default"
 
-day_night = true
+day_night = false
 
 font = "default"
 
@@ -12,9 +12,9 @@ twitter = ""
 
 logo = ""
 
-highlight = false
+highlight = true
 highlight_languages = []
-# highlight_style = "github"
+highlight_style = "monokai-sublime"
 
 math = true
 
