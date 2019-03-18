@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 669.466 335.38" style="enable-background:new 0 0 669.466 335.38;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#DBDADA;stroke:#000000;stroke-miterlimit:10;}
+	.st1{font-family:'ArialMT';}
+	.st2{font-size:30px;}
+	.st3{font-family:'DengXian-Bold';}
+	.st4{font-size:28px;}
+	.st5{fill:#FFF38B;stroke:#000000;stroke-miterlimit:10;}
+	.st6{fill:#FF5050;stroke:#000000;stroke-miterlimit:10;}
+	.st7{font-size:22px;}
+	.st8{font-size:40px;}
+	.st9{fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
+	.st10{font-family:'Arial-BoldItalicMT';}
+</style>
+<rect x="191.167" y="60.88" class="st0" width="49.875" height="49"/>
+<rect x="241.042" y="60.88" class="st0" width="49.875" height="49"/>
+<rect x="290.917" y="60.88" class="st0" width="49.875" height="49"/>
+<rect x="340.792" y="60.88" class="st0" width="49.875" height="49"/>
+<rect x="390.667" y="60.88" class="st0" width="49.875" height="49"/>
+<rect x="440.542" y="60.88" class="st0" width="49.875" height="49"/>
+<rect x="490.417" y="60.88" class="st0" width="49.875" height="49"/>
+<rect x="540.292" y="60.88" class="st0" width="49.875" height="49"/>
+<text transform="matrix(1 0 0 1 206.4731 97.0894)" class="st1 st2">A</text>
+<text transform="matrix(1 0 0 1 306.4731 97.0894)" class="st1 st2">A</text>
+<text transform="matrix(1 0 0 1 257 97.0464)" class="st1 st2">B</text>
+<text transform="matrix(1 0 0 1 406.4731 97.0894)" class="st1 st2">A</text>
+<text transform="matrix(1 0 0 1 356 97.0464)" class="st1 st2">B</text>
+<text transform="matrix(1 0 0 1 455 96.7134)" class="st1 st2">B</text>
+<rect x="590.292" y="60.88" class="st0" width="49.875" height="49"/>
+<text transform="matrix(1 0 0 1 507 97.0464)" class="st1 st2">B</text>
+<text transform="matrix(1 0 0 1 555.4731 97.0894)" class="st1 st2">C</text>
+<text transform="matrix(1 0 0 1 605 97.0464)" class="st1 st2">A</text>
+<text transform="matrix(1 0 0 1 77.333 92.0464)" class="st3 st4">文本串</text>
+<text transform="matrix(1 0 0 1 77.333 168.0464)" class="st3 st4">模式串</text>
+<rect x="83.167" y="299.88" class="st5" width="30" height="30"/>
+<rect x="83.167" y="241.88" class="st6" width="30" height="30"/>
+<text transform="matrix(1 0 0 1 130.333 261.3799)" class="st3 st7">匹配失败</text>
+<text transform="matrix(1 0 0 1 130.333 321.3799)" class="st3 st7">匹配成功</text>
+<text transform="matrix(1 0 0 1 0 32.3799)" class="st3 st8">KMP算法</text>
+<rect x="190.667" y="135.88" class="st5" width="49.875" height="49"/>
+<rect x="240.542" y="135.88" class="st5" width="49.875" height="49"/>
+<rect x="290.417" y="135.88" class="st6" width="49.875" height="49"/>
+<rect x="340.292" y="135.88" class="st9" width="49.875" height="49"/>
+<text transform="matrix(1 0 0 1 206.4731 172.0894)" class="st1 st2">A</text>
+<text transform="matrix(1 0 0 1 255 171.7134)" class="st1 st2">B</text>
+<rect x="390.292" y="135.88" class="st9" width="49.875" height="49"/>
+<text transform="matrix(1 0 0 1 307 172.0464)" class="st1 st2">B</text>
+<text transform="matrix(1 0 0 1 355.4731 172.0894)" class="st1 st2">C</text>
+<text transform="matrix(1 0 0 1 405 172.0464)" class="st1 st2">A</text>
+<text transform="matrix(1 0 0 1 454.6665 171.7134)" class="st10 st2">1</text>
+<rect x="289.667" y="210.88" class="st5" width="49.875" height="49"/>
+<rect x="339.542" y="210.88" class="st5" width="49.875" height="49"/>
+<rect x="389.417" y="210.88" class="st6" width="49.875" height="49"/>
+<rect x="439.292" y="210.88" class="st9" width="49.875" height="49"/>
+<text transform="matrix(1 0 0 1 305.4731 247.0894)" class="st1 st2">A</text>
+<text transform="matrix(1 0 0 1 354 246.7134)" class="st1 st2">B</text>
+<rect x="489.292" y="210.88" class="st9" width="49.875" height="49"/>
+<text transform="matrix(1 0 0 1 406 247.0464)" class="st1 st2">B</text>
+<text transform="matrix(1 0 0 1 454.4731 247.0894)" class="st1 st2">C</text>
+<text transform="matrix(1 0 0 1 504 247.0464)" class="st1 st2">A</text>
+<text transform="matrix(1 0 0 1 553.6665 246.7134)" class="st10 st2">2</text>
+<rect x="388.667" y="285.88" class="st5" width="49.875" height="49"/>
+<rect x="438.542" y="285.88" class="st5" width="49.875" height="49"/>
+<rect x="488.417" y="285.88" class="st5" width="49.875" height="49"/>
+<rect x="538.292" y="285.88" class="st5" width="49.875" height="49"/>
+<text transform="matrix(1 0 0 1 404.4731 322.0894)" class="st1 st2">A</text>
+<text transform="matrix(1 0 0 1 453 321.7134)" class="st1 st2">B</text>
+<rect x="588.292" y="285.88" class="st5" width="49.875" height="49"/>
+<text transform="matrix(1 0 0 1 505 322.0464)" class="st1 st2">B</text>
+<text transform="matrix(1 0 0 1 553.4731 322.0894)" class="st1 st2">C</text>
+<text transform="matrix(1 0 0 1 603 322.0464)" class="st1 st2">A</text>
+<text transform="matrix(1 0 0 1 652.6665 321.7134)" class="st10 st2">3</text>
+</svg>

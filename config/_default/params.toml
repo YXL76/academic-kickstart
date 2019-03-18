@@ -1,6 +1,6 @@
 color_theme = "default"
 
-day_night = false
+day_night = true
 
 font = "default"
 
