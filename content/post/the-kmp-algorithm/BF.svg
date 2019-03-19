@@ -33,13 +33,13 @@
 <text transform="matrix(1 0 0 1 455 90.8081)" class="st1 st2">B</text>
 <text transform="matrix(1 0 0 1 503.4731 90.8511)" class="st1 st2">C</text>
 <text transform="matrix(1 0 0 1 553 90.8081)" class="st1 st2">A</text>
-<text transform="matrix(1 0 0 1 25.333 85.8081)" class="st3 st4">文本串</text>
-<text transform="matrix(1 0 0 1 25.333 161.8081)" class="st3 st4">模式串</text>
+<text transform="matrix(1 0 0 1 25.333 85.8081)" class="st3 st4">Text</text>
+<text transform="matrix(1 0 0 1 25.333 161.8081)" class="st3 st4">Pattern</text>
 <rect x="31.167" y="448.642" class="st5" width="30" height="30"/>
 <rect x="31.167" y="390.642" class="st6" width="30" height="30"/>
-<text transform="matrix(1 0 0 1 78.333 410.1416)" class="st3 st7">匹配失败</text>
-<text transform="matrix(1 0 0 1 78.333 470.1416)" class="st3 st7">匹配成功</text>
-<text transform="matrix(1 0 0 1 0 29.1416)" class="st3 st8">BF算法</text>
+<text transform="matrix(1 0 0 1 78.333 410.1416)" class="st3 st7">Failure</text>
+<text transform="matrix(1 0 0 1 78.333 470.1416)" class="st3 st7">Success</text>
+<text transform="matrix(1 0 0 1 0 29.1416)" class="st3 st8">BF Algorithm</text>
 <rect x="138.667" y="129.642" class="st5" width="49.875" height="49"/>
 <rect x="188.542" y="129.642" class="st5" width="49.875" height="49"/>
 <rect x="238.417" y="129.642" class="st6" width="49.875" height="49"/>

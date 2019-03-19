@@ -14,9 +14,9 @@
 	.st8{font-family:'Arial-BoldMT';}
 	.st9{fill:#DBDADA;stroke:#000000;stroke-miterlimit:10;}
 </style>
-<text transform="matrix(1 0 0 1 25.333 85.8081)" class="st0 st1">文本串</text>
-<text transform="matrix(1 0 0 1 25.333 161.8081)" class="st0 st1">模式串</text>
-<text transform="matrix(1 0 0 1 0 29.1416)" class="st0 st2">KMP样例</text>
+<text transform="matrix(1 0 0 1 25.333 85.8081)" class="st0 st1">Text</text>
+<text transform="matrix(1 0 0 1 25.333 161.8081)" class="st0 st1">Pattern</text>
+<text transform="matrix(1 0 0 1 0 29.1416)" class="st0 st2">KMP example</text>
 <rect x="138.167" y="129.642" class="st3" width="49.875" height="49"/>
 <rect x="188.042" y="129.642" class="st3" width="49.875" height="49"/>
 <rect x="237.917" y="129.642" class="st3" width="49.875" height="49"/>

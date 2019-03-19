@@ -38,7 +38,7 @@ preserveTaxonomyNames = true
 
 [imaging]
   resampleFilter = "lanczos"
-  quality = 100
+  quality = 85
   anchor = "smart"
 
 [taxonomies]
