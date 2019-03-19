@@ -23,6 +23,8 @@ categories = ["杂谈"]
   caption = "图片来源： [**wlop**](https://www.deviantart.com/wlop/art/Connection-746661664/)"
 +++
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1008d0ba-6d9b-4a11-9b41-2326f3c096f2/deploy-status)](https://app.netlify.com/sites/yxl/deploys)
+
 大家好，我是YXL。
 
 这是我的第一篇博客。

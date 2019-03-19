@@ -23,6 +23,8 @@ categories = ["Miscellaneous"]
   caption = "Image credit: [**wlop**](https://www.deviantart.com/wlop/art/Connection-746661664/)"
 +++
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1008d0ba-6d9b-4a11-9b41-2326f3c096f2/deploy-status)](https://app.netlify.com/sites/yxl/deploys)
+
 Hello, I’m YXL.
 
 This is my first blog.

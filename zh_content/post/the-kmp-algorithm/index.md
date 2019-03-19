@@ -24,6 +24,8 @@ categories = ["算法"]
 
 +++
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1008d0ba-6d9b-4a11-9b41-2326f3c096f2/deploy-status)](https://app.netlify.com/sites/yxl/deploys)
+
 <font size=2>*本文不讨论KMP算法的‘所以然’，只以尽量简单的方式讲明白KMP算法的实现，若要更深层次学习请参考其他资料*</font>
 
 我们先来看两段代码：

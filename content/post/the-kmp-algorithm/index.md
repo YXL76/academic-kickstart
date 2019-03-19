@@ -24,6 +24,8 @@ categories = ["Algorithm"]
 
 +++
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1008d0ba-6d9b-4a11-9b41-2326f3c096f2/deploy-status)](https://app.netlify.com/sites/yxl/deploys)
+
 <font size=2>*This article doesn't discuss the ‘why’ of the KMP Algorithm. It only explains the implementation of the KMP algorithm in a simple way. For further study, please refer to other materials.*</font>
 
 Firstly, let’s  look at these two codes:
@@ -183,7 +185,7 @@ int GetNext_KMP()
 }
 ```
 
-In the end, we got all the code for **KMP Algorithm**.
+In the end, we get all the code for **KMP Algorithm**.
 
 ***
 
