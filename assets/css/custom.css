@@ -3,7 +3,7 @@
 }
 
 body {
-    background: url("../img/background.webp");
+    background: url("../img/Connection-746661664-by-wlop.webp");
 	background-size: cover;
 	background-repeat:no-repeat;
 	background-attachment: fixed;
@@ -16,7 +16,7 @@ body {
 	padding-top: 45px;
 	padding-bottom: 25px;
 	border-radius: 20px;
-    box-shadow: -5px -5px 10px rgb(224, 255, 255, 0.5);
+    box-shadow: -2px -2px 6px rgb(200, 255, 255, 0.5);
 }
 
 .article {
@@ -34,6 +34,10 @@ span[itemprop="name"] a {
 h1[itemprop="name"] {
 	font-weight:bold;
 	color: white;
+}
+
+img[alt="Netlify Status"] {
+	margin-left:0px;
 }
 
 .article h1 {
@@ -79,3 +83,25 @@ h1[itemprop="name"] {
 .article-style {
 	color: white;
 }
+
+.aplayer-title {
+	color: black;
+}
+
+.aplayer .aplayer-lrc p {
+    color: #0e90d2 !important;
+}
+
+
+.kosugi-maru {
+	font-family: 'Kosugi Maru', sans-serif !important;
+}
+
+.noto-sans-sc {
+	font-family: 'Noto Sans SC', sans-serif !important;
+}
+
+.roboto-mono {
+	font-family: 'Roboto Mono', monospace !important;
+}
+

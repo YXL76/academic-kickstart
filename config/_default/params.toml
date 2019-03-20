@@ -46,7 +46,7 @@ contact_links = [
 ## Plugins                ##
 ############################
 
-plugins_css = ["custom"]
+plugins_css = ["custom", "font"]
 plugins_js  = ["custom"]
 
 ############################

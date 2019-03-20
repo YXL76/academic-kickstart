@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'Kosugi Maru';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Kosugi Maru'), local('KosugiMaru-Regular'), url(https://fonts.gstatic.com/s/kosugimaru/v3/0nksC9PgP_wGh21A2KeqGhTtgP0.woff) format('woff');
+}
+@font-face {
+  font-family: 'Noto Sans SC';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Noto Sans SC Regular'), local('NotoSansSC-Regular'), url(https://fonts.gstatic.com/s/notosanssc/v4/k3kXo84MPvpLmixcA63oeALRLoKO.woff) format('woff');
+}
+@font-face {
+  font-family: 'Roboto Mono';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Roboto Mono'), local('RobotoMono-Regular'), url(https://fonts.gstatic.com/s/robotomono/v6/L0x5DF4xlVMF-BfR8bXMIjhLq3k.woff) format('woff');
+}
