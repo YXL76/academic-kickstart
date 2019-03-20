@@ -19,7 +19,8 @@ categories = ["杂谈"]
   preview_only = true
 
 [header]
-  image = "Connection-746661664-by-wlop.webp"
+  # image = "Connection-746661664-by-wlop.webp"
+  image = "https://yxl-blog.oss-cn-beijing.aliyuncs.com/img/Connection-746661664-by-wlop.webp"
   caption = "图片来源： [**wlop**](https://www.deviantart.com/wlop/art/Connection-746661664/)"
 +++
 
@@ -47,8 +48,10 @@ const ap = new APlayer({
     audio: [{
 		name: 'NEXT TO YOU',
 		artist: 'Ken Arai',
-        url: '../../../music/NEXT TO YOU-Ken Arai.mp3',
-		cover: '../../../music/NEXT TO YOU-Ken Arai.jpg',
+        //url: '../../../music/NEXT TO YOU-Ken Arai.mp3',
+		//cover: '../../../music/NEXT TO YOU-Ken Arai.jpg',
+		url: 'https://yxl-blog.oss-cn-beijing.aliyuncs.com/music/NEXT%20TO%20YOU-Ken%20Arai.mp3',
+		cover: 'https://yxl-blog.oss-cn-beijing.aliyuncs.com/music/NEXT%20TO%20YOU-Ken%20Arai.jpg',
 		mutex: true,
 		listFolded: true,
     }],
