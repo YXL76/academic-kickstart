@@ -24,8 +24,10 @@ const ap = new APlayer({
     audio: [{
 		name: 'White Magic',
 		artist: 'Ujico Snail s house',
-        url: '../../music/White Magic-Ujico Snail s house.mp3',
-		cover: '../../music/White Magic-Ujico Snail s house.jpg',
+        //url: '../../music/White Magic-Ujico Snail s house.mp3',
+		//cover: '../../music/White Magic-Ujico Snail s house.jpg',
+		url: 'https://yxl-blog.oss-cn-beijing.aliyuncs.com/music/White%20Magic-Ujico%20Snail%20s%20house.mp3',
+		cover: 'https://yxl-blog.oss-cn-beijing.aliyuncs.com/music/White%20Magic-Ujico%20Snail%20s%20house.jpg',
 		mutex: true,
 		listFolded: true,
     }],

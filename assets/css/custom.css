@@ -3,7 +3,8 @@
 }
 
 body {
-    background: url("../img/Connection-746661664-by-wlop.webp");
+    //background: url("../img/Connection-746661664-by-wlop.webp");
+	background: url("https://yxl-blog.oss-cn-beijing.aliyuncs.com/img/Connection-746661664-by-wlop.webp");
 	background-size: cover;
 	background-repeat:no-repeat;
 	background-attachment: fixed;

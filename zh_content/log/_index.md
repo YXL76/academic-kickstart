@@ -95,8 +95,10 @@ const ap = new APlayer({
     audio: [{
 		name: 'Ref:rain',
 		artist: 'Aimer',
-        url: '../../music/Ref-rain-Aimer.mp3',
-		cover: '../../music/Ref-rain-Aimer.jpg',
+        //url: '../../music/Ref-rain-Aimer.mp3',
+		//cover: '../../music/Ref-rain-Aimer.jpg',
+		url: 'https://yxl-blog.oss-cn-beijing.aliyuncs.com/music/Ref-rain-Aimer.mp3',
+		cover: 'https://yxl-blog.oss-cn-beijing.aliyuncs.com/music/Ref-rain-Aimer.jpg',
 		mutex: true,
 		listFolded: true,
     }],
@@ -105,6 +107,8 @@ const ap = new APlayer({
 </script>
 
 - 2019/03/20  完成了对网站的个性化。
-- 2019/03/19  发表了第一篇博客
+
+- 2019/03/19  发表了第一篇博客。
+
 - 2019/03/15  建站。
 

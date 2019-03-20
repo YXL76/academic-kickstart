@@ -95,8 +95,10 @@ const ap = new APlayer({
     audio: [{
 		name: 'Ref:rain',
 		artist: 'Aimer',
-        url: '../../music/Ref-rain-Aimer.mp3',
-		cover: '../../music/Ref-rain-Aimer.jpg',
+        //url: '../../music/Ref-rain-Aimer.mp3',
+		//cover: '../../music/Ref-rain-Aimer.jpg',
+		url: 'https://yxl-blog.oss-cn-beijing.aliyuncs.com/music/Ref-rain-Aimer.mp3',
+		cover: 'https://yxl-blog.oss-cn-beijing.aliyuncs.com/music/Ref-rain-Aimer.jpg',
 		mutex: true,
 		listFolded: true,
     }],
@@ -105,5 +107,7 @@ const ap = new APlayer({
 </script>
 
 - 2019/03/20 Completed the personalization of the website.
-- 2019/03/19 Published the first blog
+
+- 2019/03/19 Published the first blog.
+
 - 2019/03/15 Building a station.

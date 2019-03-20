@@ -24,8 +24,10 @@ const ap = new APlayer({
     audio: [{
 		name: 'The Voice in My Heart',
 		artist: 'Evan Call',
-        url: '../../music/The Voice in My Heart-Evan Call.mp3',
-		cover: '../../music/The Voice in My Heart-Evan Call.jpg',
+        //url: '../../music/The Voice in My Heart-Evan Call.mp3',
+		//cover: '../../music/The Voice in My Heart-Evan Call.jpg',
+		url: 'https://yxl-blog.oss-cn-beijing.aliyuncs.com/music/The%20Voice%20in%20My%20Heart-Evan%20Call.mp3',
+		cover: 'https://yxl-blog.oss-cn-beijing.aliyuncs.com/music/The%20Voice%20in%20My%20Heart-Evan%20Call.jpg',
 		mutex: true,
 		listFolded: true,
     }],
