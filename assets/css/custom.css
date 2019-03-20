@@ -1,3 +1,81 @@
 .white-color {
 	color: white;
 }
+
+body {
+    background: url("../img/background.webp");
+	background-size: cover;
+	background-repeat:no-repeat;
+	background-attachment: fixed;
+}
+
+.media {
+	background: rgb(256, 256, 256, 0.8);
+	padding-left: 55px;
+	padding-right: 55px;
+	padding-top: 45px;
+	padding-bottom: 25px;
+	border-radius: 20px;
+    box-shadow: -5px -5px 10px rgb(224, 255, 255, 0.5);
+}
+
+.article {
+	color: white;
+}
+
+article .article-metadata {
+	color: white;
+}
+
+span[itemprop="name"] a {
+	color: LightSkyBlue;
+}
+
+h1[itemprop="name"] {
+	font-weight:bold;
+	color: white;
+}
+
+.article h1 {
+	color: white;
+}
+
+.article h2 {
+	color: white;
+}
+
+.article h3 {
+	color: white;
+}
+
+.article h3 {
+	color: white;
+}
+
+.article h4 {
+	color: white;
+}
+
+.article h5 {
+	color: white;
+}
+
+.article h6 {
+	color: white;
+}
+
+.article a {
+	color: LightSkyBlue;
+}
+
+.page-subtitle {
+	color: white;
+}
+
+.badge-light {
+	color: LightSkyBlue;
+}
+
+.article-style {
+	color: white;
+}

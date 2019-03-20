@@ -6,19 +6,20 @@
 	.st0{fill:#DBDADA;stroke:#000000;stroke-miterlimit:10;}
 	.st1{font-family:'ArialMT';}
 	.st2{font-size:30px;}
-	.st3{font-family:'DengXian-Bold';}
-	.st4{font-size:28px;}
-	.st5{font-size:36px;}
-	.st6{fill:#FFF38B;stroke:#000000;stroke-miterlimit:10;}
-	.st7{fill:#FF5050;stroke:#000000;stroke-miterlimit:10;}
-	.st8{font-family:'Arial-BoldMT';}
-	.st9{fill:none;stroke:#29ABE2;stroke-width:3;stroke-miterlimit:10;}
-	.st10{fill:none;stroke:#29ABE2;stroke-width:3;stroke-miterlimit:10;stroke-dasharray:11.6522,11.6522;}
-	.st11{fill:none;stroke:#29ABE2;stroke-width:3;stroke-miterlimit:10;stroke-dasharray:13.6,13.6;}
-	.st12{fill:none;stroke:#29ABE2;stroke-width:3;stroke-miterlimit:10;stroke-dasharray:11.4737,11.4737;}
-	.st13{fill:none;stroke:#29ABE2;stroke-width:3;stroke-miterlimit:10;stroke-dasharray:10.7429,10.7429;}
-	.st14{fill:none;stroke:#00FF00;stroke-width:1.5;stroke-miterlimit:10;stroke-dasharray:11.8513,5.9257;}
-	.st15{fill:none;stroke:#00FF00;stroke-width:1.5;stroke-miterlimit:10;stroke-dasharray:11.5162,5.7581;}
+	.st3{fill:#CCCCCC;}
+	.st4{font-family:'DengXian-Bold';}
+	.st5{font-size:28px;}
+	.st6{font-size:36px;}
+	.st7{fill:#FFF38B;stroke:#000000;stroke-miterlimit:10;}
+	.st8{fill:#FF5050;stroke:#000000;stroke-miterlimit:10;}
+	.st9{font-family:'Arial-BoldMT';}
+	.st10{fill:none;stroke:#29ABE2;stroke-width:3;stroke-miterlimit:10;}
+	.st11{fill:none;stroke:#29ABE2;stroke-width:3;stroke-miterlimit:10;stroke-dasharray:11.6522,11.6522;}
+	.st12{fill:none;stroke:#29ABE2;stroke-width:3;stroke-miterlimit:10;stroke-dasharray:13.6,13.6;}
+	.st13{fill:none;stroke:#29ABE2;stroke-width:3;stroke-miterlimit:10;stroke-dasharray:11.4737,11.4737;}
+	.st14{fill:none;stroke:#29ABE2;stroke-width:3;stroke-miterlimit:10;stroke-dasharray:10.7429,10.7429;}
+	.st15{fill:none;stroke:#00FF00;stroke-width:1.5;stroke-miterlimit:10;stroke-dasharray:11.8513,5.9257;}
+	.st16{fill:none;stroke:#00FF00;stroke-width:1.5;stroke-miterlimit:10;stroke-dasharray:11.5162,5.7581;}
 </style>
 <rect x="138.167" y="575.642" class="st0" width="49.875" height="49"/>
 <rect x="188.042" y="575.642" class="st0" width="49.875" height="49"/>
@@ -38,45 +39,45 @@
 <text transform="matrix(1 0 0 1 454 611.8081)" class="st1 st2">C</text>
 <text transform="matrix(1 0 0 1 502.4731 611.8511)" class="st1 st2">D</text>
 <text transform="matrix(1 0 0 1 552 611.8081)" class="st1 st2">E</text>
-<text transform="matrix(1 0 0 1 25.333 85.8081)" class="st3 st4">文本串</text>
-<text transform="matrix(1 0 0 1 25.333 161.8081)" class="st3 st4">模式串</text>
-<text transform="matrix(1 0 0 1 0 29.1416)" class="st3 st5">样例1</text>
-<rect x="138.167" y="129.642" class="st6" width="49.875" height="49"/>
-<rect x="188.042" y="129.642" class="st6" width="49.875" height="49"/>
-<rect x="237.917" y="129.642" class="st6" width="49.875" height="49"/>
-<rect x="287.792" y="129.642" class="st6" width="49.875" height="49"/>
-<rect x="337.667" y="129.642" class="st6" width="49.875" height="49"/>
-<rect x="387.542" y="129.642" class="st7" width="49.875" height="49"/>
+<text transform="matrix(1 0 0 1 25.333 85.8081)" class="st3 st4 st5">文本串</text>
+<text transform="matrix(1 0 0 1 25.333 161.8081)" class="st3 st4 st5">模式串</text>
+<text transform="matrix(1 0 0 1 0 29.1416)" class="st3 st4 st6">样例1</text>
+<rect x="138.167" y="129.642" class="st7" width="49.875" height="49"/>
+<rect x="188.042" y="129.642" class="st7" width="49.875" height="49"/>
+<rect x="237.917" y="129.642" class="st7" width="49.875" height="49"/>
+<rect x="287.792" y="129.642" class="st7" width="49.875" height="49"/>
+<rect x="337.667" y="129.642" class="st7" width="49.875" height="49"/>
+<rect x="387.542" y="129.642" class="st8" width="49.875" height="49"/>
 <text transform="matrix(1 0 0 1 153.4731 165.8511)" class="st1 st2">A</text>
 <text transform="matrix(1 0 0 1 253.4731 165.8511)" class="st1 st2">C</text>
 <text transform="matrix(1 0 0 1 204 165.8081)" class="st1 st2">B</text>
 <text transform="matrix(1 0 0 1 353.4731 165.8511)" class="st1 st2">B</text>
 <text transform="matrix(1 0 0 1 303 165.8081)" class="st1 st2">A</text>
 <text transform="matrix(1 0 0 1 402 165.4751)" class="st1 st2">D</text>
-<text transform="matrix(1 0 0 1 454.6665 166.1416)" class="st8 st2">1</text>
-<rect x="289.167" y="204.642" class="st6" width="49.875" height="49"/>
-<rect x="339.042" y="204.642" class="st6" width="49.875" height="49"/>
-<rect x="388.917" y="204.642" class="st6" width="49.875" height="49"/>
-<rect x="438.792" y="204.642" class="st6" width="49.875" height="49"/>
-<rect x="488.667" y="204.642" class="st6" width="49.875" height="49"/>
-<rect x="538.542" y="204.642" class="st6" width="49.875" height="49"/>
+<text transform="matrix(1 0 0 1 454.6665 166.1416)" class="st3 st9 st2">1</text>
+<rect x="289.167" y="204.642" class="st7" width="49.875" height="49"/>
+<rect x="339.042" y="204.642" class="st7" width="49.875" height="49"/>
+<rect x="388.917" y="204.642" class="st7" width="49.875" height="49"/>
+<rect x="438.792" y="204.642" class="st7" width="49.875" height="49"/>
+<rect x="488.667" y="204.642" class="st7" width="49.875" height="49"/>
+<rect x="538.542" y="204.642" class="st7" width="49.875" height="49"/>
 <text transform="matrix(1 0 0 1 304.4731 240.8511)" class="st1 st2">A</text>
 <text transform="matrix(1 0 0 1 404.4731 240.8511)" class="st1 st2">C</text>
 <text transform="matrix(1 0 0 1 355 240.8081)" class="st1 st2">B</text>
 <text transform="matrix(1 0 0 1 504.4731 240.8511)" class="st1 st2">B</text>
 <text transform="matrix(1 0 0 1 454 240.8081)" class="st1 st2">A</text>
 <text transform="matrix(1 0 0 1 553 240.4751)" class="st1 st2">D</text>
-<text transform="matrix(1 0 0 1 605.6665 241.1416)" class="st8 st2">2</text>
+<text transform="matrix(1 0 0 1 605.6665 241.1416)" class="st3 st9 st2">2</text>
 <g>
 	<g>
-		<polyline class="st9" points="400.667,188.142 400.667,194.142 394.667,194.142 		"/>
-		<line class="st10" x1="383.014" y1="194.142" x2="132.493" y2="194.142"/>
-		<polyline class="st9" points="126.667,194.142 120.667,194.142 120.667,188.142 		"/>
-		<line class="st11" x1="120.667" y1="174.542" x2="120.667" y2="126.942"/>
-		<polyline class="st9" points="120.667,120.142 120.667,114.142 126.667,114.142 		"/>
-		<line class="st10" x1="138.319" y1="114.142" x2="388.84" y2="114.142"/>
-		<polyline class="st9" points="394.667,114.142 400.667,114.142 400.667,120.142 		"/>
-		<line class="st11" x1="400.667" y1="133.742" x2="400.667" y2="181.342"/>
+		<polyline class="st10" points="400.667,188.142 400.667,194.142 394.667,194.142 		"/>
+		<line class="st11" x1="383.014" y1="194.142" x2="132.493" y2="194.142"/>
+		<polyline class="st10" points="126.667,194.142 120.667,194.142 120.667,188.142 		"/>
+		<line class="st12" x1="120.667" y1="174.542" x2="120.667" y2="126.942"/>
+		<polyline class="st10" points="120.667,120.142 120.667,114.142 126.667,114.142 		"/>
+		<line class="st11" x1="138.319" y1="114.142" x2="388.84" y2="114.142"/>
+		<polyline class="st10" points="394.667,114.142 400.667,114.142 400.667,120.142 		"/>
+		<line class="st12" x1="400.667" y1="133.742" x2="400.667" y2="181.342"/>
 	</g>
 </g>
 <rect x="139.167" y="320.642" class="st0" width="49.875" height="49"/>
@@ -95,92 +96,92 @@
 <text transform="matrix(1 0 0 1 403 356.4751)" class="st1 st2">D</text>
 <text transform="matrix(1 0 0 1 455 356.8081)" class="st1 st2">D</text>
 <text transform="matrix(1 0 0 1 503.4731 356.8511)" class="st1 st2">A</text>
-<text transform="matrix(1 0 0 1 25.333 351.8081)" class="st3 st4">文本串</text>
-<text transform="matrix(1 0 0 1 25.333 427.8081)" class="st3 st4">模式串</text>
-<text transform="matrix(1 0 0 1 0 295.1416)" class="st3 st5">样例2</text>
-<rect x="138.167" y="395.642" class="st6" width="49.875" height="49"/>
-<rect x="188.042" y="395.642" class="st6" width="49.875" height="49"/>
-<rect x="237.917" y="395.642" class="st6" width="49.875" height="49"/>
-<rect x="287.792" y="395.642" class="st6" width="49.875" height="49"/>
-<rect x="337.667" y="395.642" class="st7" width="49.875" height="49"/>
+<text transform="matrix(1 0 0 1 25.333 351.8081)" class="st3 st4 st5">文本串</text>
+<text transform="matrix(1 0 0 1 25.333 427.8081)" class="st3 st4 st5">模式串</text>
+<text transform="matrix(1 0 0 1 0 295.1416)" class="st3 st4 st6">样例2</text>
+<rect x="138.167" y="395.642" class="st7" width="49.875" height="49"/>
+<rect x="188.042" y="395.642" class="st7" width="49.875" height="49"/>
+<rect x="237.917" y="395.642" class="st7" width="49.875" height="49"/>
+<rect x="287.792" y="395.642" class="st7" width="49.875" height="49"/>
+<rect x="337.667" y="395.642" class="st8" width="49.875" height="49"/>
 <text transform="matrix(1 0 0 1 153.4731 431.8511)" class="st1 st2">D</text>
 <text transform="matrix(1 0 0 1 253.4731 431.8511)" class="st1 st2">D</text>
 <text transform="matrix(1 0 0 1 204 431.8081)" class="st1 st2">B</text>
 <text transform="matrix(1 0 0 1 353.4731 431.8511)" class="st1 st2">A</text>
 <text transform="matrix(1 0 0 1 303 431.8081)" class="st1 st2">D</text>
-<text transform="matrix(1 0 0 1 409.6665 432.1416)" class="st8 st2">1</text>
+<text transform="matrix(1 0 0 1 409.6665 432.1416)" class="st3 st9 st2">1</text>
 <g>
 	<g>
-		<polyline class="st9" points="353.667,446.999 353.667,452.999 347.667,452.999 		"/>
-		<line class="st12" x1="336.193" y1="452.999" x2="135.403" y2="452.999"/>
-		<polyline class="st9" points="129.667,452.999 123.667,452.999 123.667,446.999 		"/>
-		<line class="st13" x1="123.667" y1="436.256" x2="123.667" y2="398.656"/>
-		<polyline class="st9" points="123.667,393.284 123.667,387.284 129.667,387.284 		"/>
-		<line class="st12" x1="141.14" y1="387.284" x2="341.93" y2="387.284"/>
-		<polyline class="st9" points="347.667,387.284 353.667,387.284 353.667,393.284 		"/>
-		<line class="st13" x1="353.667" y1="404.027" x2="353.667" y2="441.627"/>
+		<polyline class="st10" points="353.667,446.999 353.667,452.999 347.667,452.999 		"/>
+		<line class="st13" x1="336.193" y1="452.999" x2="135.403" y2="452.999"/>
+		<polyline class="st10" points="129.667,452.999 123.667,452.999 123.667,446.999 		"/>
+		<line class="st14" x1="123.667" y1="436.256" x2="123.667" y2="398.656"/>
+		<polyline class="st10" points="123.667,393.284 123.667,387.284 129.667,387.284 		"/>
+		<line class="st13" x1="141.14" y1="387.284" x2="341.93" y2="387.284"/>
+		<polyline class="st10" points="347.667,387.284 353.667,387.284 353.667,393.284 		"/>
+		<line class="st14" x1="353.667" y1="404.027" x2="353.667" y2="441.627"/>
 	</g>
 </g>
-<rect x="289.167" y="470.642" class="st6" width="49.875" height="49"/>
-<rect x="339.042" y="470.642" class="st6" width="49.875" height="49"/>
-<rect x="388.917" y="470.642" class="st6" width="49.875" height="49"/>
-<rect x="438.792" y="470.642" class="st6" width="49.875" height="49"/>
-<rect x="488.667" y="470.642" class="st6" width="49.875" height="49"/>
+<rect x="289.167" y="470.642" class="st7" width="49.875" height="49"/>
+<rect x="339.042" y="470.642" class="st7" width="49.875" height="49"/>
+<rect x="388.917" y="470.642" class="st7" width="49.875" height="49"/>
+<rect x="438.792" y="470.642" class="st7" width="49.875" height="49"/>
+<rect x="488.667" y="470.642" class="st7" width="49.875" height="49"/>
 <text transform="matrix(1 0 0 1 304.4731 506.8511)" class="st1 st2">D</text>
 <text transform="matrix(1 0 0 1 404.4731 506.8511)" class="st1 st2">D</text>
 <text transform="matrix(1 0 0 1 355 506.8081)" class="st1 st2">B</text>
 <text transform="matrix(1 0 0 1 504.4731 506.8511)" class="st1 st2">A</text>
 <text transform="matrix(1 0 0 1 454 506.8081)" class="st1 st2">D</text>
-<text transform="matrix(1 0 0 1 560.6665 507.1416)" class="st8 st2">2</text>
+<text transform="matrix(1 0 0 1 560.6665 507.1416)" class="st3 st9 st2">2</text>
 <g>
-	<ellipse class="st14" cx="188.167" cy="154.642" rx="60" ry="27.5"/>
+	<ellipse class="st15" cx="188.167" cy="154.642" rx="60" ry="27.5"/>
 </g>
 <g>
-	<ellipse class="st14" cx="339.667" cy="154.642" rx="60" ry="27.5"/>
+	<ellipse class="st15" cx="339.667" cy="154.642" rx="60" ry="27.5"/>
 </g>
 <g>
-	<circle class="st15" cx="163.167" cy="420.642" r="27.5"/>
+	<circle class="st16" cx="163.167" cy="420.642" r="27.5"/>
 </g>
 <g>
-	<circle class="st15" cx="313.167" cy="420.642" r="27.5"/>
+	<circle class="st16" cx="313.167" cy="420.642" r="27.5"/>
 </g>
-<text transform="matrix(1 0 0 1 25.333 606.8081)" class="st3 st4">文本串</text>
-<text transform="matrix(1 0 0 1 25.333 682.8081)" class="st3 st4">模式串</text>
-<text transform="matrix(1 0 0 1 0 550.1416)" class="st3 st5">样例3</text>
-<rect x="138.167" y="650.642" class="st6" width="49.875" height="49"/>
-<rect x="188.042" y="650.642" class="st6" width="49.875" height="49"/>
-<rect x="237.917" y="650.642" class="st6" width="49.875" height="49"/>
-<rect x="287.792" y="650.642" class="st6" width="49.875" height="49"/>
-<rect x="337.667" y="650.642" class="st7" width="49.875" height="49"/>
+<text transform="matrix(1 0 0 1 25.333 606.8081)" class="st3 st4 st5">文本串</text>
+<text transform="matrix(1 0 0 1 25.333 682.8081)" class="st3 st4 st5">模式串</text>
+<text transform="matrix(1 0 0 1 0 550.1416)" class="st3 st4 st6">样例3</text>
+<rect x="138.167" y="650.642" class="st7" width="49.875" height="49"/>
+<rect x="188.042" y="650.642" class="st7" width="49.875" height="49"/>
+<rect x="237.917" y="650.642" class="st7" width="49.875" height="49"/>
+<rect x="287.792" y="650.642" class="st7" width="49.875" height="49"/>
+<rect x="337.667" y="650.642" class="st8" width="49.875" height="49"/>
 <text transform="matrix(1 0 0 1 153.4731 686.8511)" class="st1 st2">A</text>
 <text transform="matrix(1 0 0 1 253.4731 686.8511)" class="st1 st2">C</text>
 <text transform="matrix(1 0 0 1 204 686.8081)" class="st1 st2">B</text>
 <text transform="matrix(1 0 0 1 353.4731 686.8511)" class="st1 st2">E</text>
 <text transform="matrix(1 0 0 1 303 686.8081)" class="st1 st2">D</text>
-<text transform="matrix(1 0 0 1 409.6665 687.1416)" class="st8 st2">1</text>
+<text transform="matrix(1 0 0 1 409.6665 687.1416)" class="st9 st2">1</text>
 <g>
 	<g>
-		<polyline class="st9" points="353.667,701.999 353.667,707.999 347.667,707.999 		"/>
-		<line class="st12" x1="336.193" y1="707.999" x2="135.403" y2="707.999"/>
-		<polyline class="st9" points="129.667,707.999 123.667,707.999 123.667,701.999 		"/>
-		<line class="st13" x1="123.667" y1="691.256" x2="123.667" y2="653.656"/>
-		<polyline class="st9" points="123.667,648.284 123.667,642.284 129.667,642.284 		"/>
-		<line class="st12" x1="141.14" y1="642.284" x2="341.93" y2="642.284"/>
-		<polyline class="st9" points="347.667,642.284 353.667,642.284 353.667,648.284 		"/>
-		<line class="st13" x1="353.667" y1="659.027" x2="353.667" y2="696.627"/>
+		<polyline class="st10" points="353.667,701.999 353.667,707.999 347.667,707.999 		"/>
+		<line class="st13" x1="336.193" y1="707.999" x2="135.403" y2="707.999"/>
+		<polyline class="st10" points="129.667,707.999 123.667,707.999 123.667,701.999 		"/>
+		<line class="st14" x1="123.667" y1="691.256" x2="123.667" y2="653.656"/>
+		<polyline class="st10" points="123.667,648.284 123.667,642.284 129.667,642.284 		"/>
+		<line class="st13" x1="141.14" y1="642.284" x2="341.93" y2="642.284"/>
+		<polyline class="st10" points="347.667,642.284 353.667,642.284 353.667,648.284 		"/>
+		<line class="st14" x1="353.667" y1="659.027" x2="353.667" y2="696.627"/>
 	</g>
 </g>
-<rect x="338.167" y="725.642" class="st6" width="49.875" height="49"/>
-<rect x="388.042" y="725.642" class="st6" width="49.875" height="49"/>
-<rect x="437.917" y="725.642" class="st6" width="49.875" height="49"/>
-<rect x="487.792" y="725.642" class="st6" width="49.875" height="49"/>
-<rect x="537.667" y="725.642" class="st6" width="49.875" height="49"/>
+<rect x="338.167" y="725.642" class="st7" width="49.875" height="49"/>
+<rect x="388.042" y="725.642" class="st7" width="49.875" height="49"/>
+<rect x="437.917" y="725.642" class="st7" width="49.875" height="49"/>
+<rect x="487.792" y="725.642" class="st7" width="49.875" height="49"/>
+<rect x="537.667" y="725.642" class="st7" width="49.875" height="49"/>
 <text transform="matrix(1 0 0 1 353.4731 761.8511)" class="st1 st2">A</text>
 <text transform="matrix(1 0 0 1 453.4731 761.8511)" class="st1 st2">C</text>
 <text transform="matrix(1 0 0 1 404 761.8081)" class="st1 st2">B</text>
 <text transform="matrix(1 0 0 1 553.4731 761.8511)" class="st1 st2">E</text>
 <text transform="matrix(1 0 0 1 503 761.8081)" class="st1 st2">D</text>
-<text transform="matrix(1 0 0 1 605.6665 762.1416)" class="st8 st2">2</text>
+<text transform="matrix(1 0 0 1 605.6665 762.1416)" class="st3 st9 st2">2</text>
 <rect x="138.167" y="54.642" class="st0" width="49.875" height="49"/>
 <rect x="188.042" y="54.642" class="st0" width="49.875" height="49"/>
 <rect x="237.917" y="54.642" class="st0" width="49.875" height="49"/>

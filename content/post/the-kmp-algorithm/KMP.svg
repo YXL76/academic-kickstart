@@ -3,62 +3,63 @@
 <svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 622.351 254.142" style="enable-background:new 0 0 622.351 254.142;" xml:space="preserve">
 <style type="text/css">
-	.st0{font-family:'DengXian-Bold';}
-	.st1{font-size:28px;}
-	.st2{font-size:36px;}
-	.st3{fill:#FFF38B;stroke:#000000;stroke-miterlimit:10;}
-	.st4{fill:#FF5050;stroke:#000000;stroke-miterlimit:10;}
-	.st5{fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
-	.st6{font-family:'ArialMT';}
-	.st7{font-size:30px;}
-	.st8{font-family:'Arial-BoldMT';}
-	.st9{fill:#DBDADA;stroke:#000000;stroke-miterlimit:10;}
+	.st0{fill:#CCCCCC;}
+	.st1{font-family:'DengXian-Bold';}
+	.st2{font-size:28px;}
+	.st3{font-size:36px;}
+	.st4{fill:#FFF38B;stroke:#000000;stroke-miterlimit:10;}
+	.st5{fill:#FF5050;stroke:#000000;stroke-miterlimit:10;}
+	.st6{fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
+	.st7{font-family:'ArialMT';}
+	.st8{font-size:30px;}
+	.st9{font-family:'Arial-BoldMT';}
+	.st10{fill:#DBDADA;stroke:#000000;stroke-miterlimit:10;}
 </style>
-<text transform="matrix(1 0 0 1 25.333 85.8081)" class="st0 st1">Text</text>
-<text transform="matrix(1 0 0 1 25.333 161.8081)" class="st0 st1">Pattern</text>
-<text transform="matrix(1 0 0 1 0 29.1416)" class="st0 st2">KMP example</text>
-<rect x="138.167" y="129.642" class="st3" width="49.875" height="49"/>
-<rect x="188.042" y="129.642" class="st3" width="49.875" height="49"/>
-<rect x="237.917" y="129.642" class="st3" width="49.875" height="49"/>
-<rect x="287.792" y="129.642" class="st3" width="49.875" height="49"/>
-<rect x="337.667" y="129.642" class="st4" width="49.875" height="49"/>
-<rect x="387.542" y="129.642" class="st5" width="49.875" height="49"/>
-<text transform="matrix(1 0 0 1 153.4731 165.8511)" class="st6 st7">A</text>
-<text transform="matrix(1 0 0 1 253.4731 165.8511)" class="st6 st7">C</text>
-<text transform="matrix(1 0 0 1 204 165.8081)" class="st6 st7">B</text>
-<text transform="matrix(1 0 0 1 353.4731 165.8511)" class="st6 st7">B</text>
-<text transform="matrix(1 0 0 1 303 165.8081)" class="st6 st7">A</text>
-<text transform="matrix(1 0 0 1 402 165.4751)" class="st6 st7">D</text>
-<text transform="matrix(1 0 0 1 454.6665 166.1416)" class="st8 st7">1</text>
-<rect x="289.167" y="204.642" class="st3" width="49.875" height="49"/>
-<rect x="339.042" y="204.642" class="st4" width="49.875" height="49"/>
-<rect x="388.917" y="204.642" class="st5" width="49.875" height="49"/>
-<rect x="438.792" y="204.642" class="st5" width="49.875" height="49"/>
-<rect x="488.667" y="204.642" class="st5" width="49.875" height="49"/>
-<rect x="538.542" y="204.642" class="st5" width="49.875" height="49"/>
-<text transform="matrix(1 0 0 1 304.4731 240.8511)" class="st6 st7">A</text>
-<text transform="matrix(1 0 0 1 404.4731 240.8511)" class="st6 st7">C</text>
-<text transform="matrix(1 0 0 1 355 240.8081)" class="st6 st7">B</text>
-<text transform="matrix(1 0 0 1 504.4731 240.8511)" class="st6 st7">B</text>
-<text transform="matrix(1 0 0 1 454 240.8081)" class="st6 st7">A</text>
-<text transform="matrix(1 0 0 1 553 240.4751)" class="st6 st7">D</text>
-<text transform="matrix(1 0 0 1 605.6665 241.1416)" class="st8 st7">2</text>
-<rect x="138.167" y="54.642" class="st9" width="49.875" height="49"/>
-<rect x="188.042" y="54.642" class="st9" width="49.875" height="49"/>
-<rect x="237.917" y="54.642" class="st9" width="49.875" height="49"/>
-<rect x="287.792" y="54.642" class="st9" width="49.875" height="49"/>
-<rect x="337.667" y="54.642" class="st9" width="49.875" height="49"/>
-<rect x="387.542" y="54.642" class="st9" width="49.875" height="49"/>
-<rect x="437.417" y="54.642" class="st9" width="49.875" height="49"/>
-<rect x="487.292" y="54.642" class="st9" width="49.875" height="49"/>
-<text transform="matrix(1 0 0 1 153.4731 90.8511)" class="st6 st7">A</text>
-<text transform="matrix(1 0 0 1 253.4731 90.8511)" class="st6 st7">C</text>
-<text transform="matrix(1 0 0 1 204 90.8081)" class="st6 st7">B</text>
-<text transform="matrix(1 0 0 1 353.4731 90.8511)" class="st6 st7">C</text>
-<text transform="matrix(1 0 0 1 303 90.8081)" class="st6 st7">A</text>
-<text transform="matrix(1 0 0 1 402 90.4751)" class="st6 st7">C</text>
-<rect x="537.292" y="54.642" class="st9" width="49.875" height="49"/>
-<text transform="matrix(1 0 0 1 454 90.8081)" class="st6 st7">A</text>
-<text transform="matrix(1 0 0 1 502.4731 90.8511)" class="st6 st7">B</text>
-<text transform="matrix(1 0 0 1 552 90.8081)" class="st6 st7">D</text>
+<text transform="matrix(1 0 0 1 25.333 85.8081)" class="st0 st1 st2">Text</text>
+<text transform="matrix(1 0 0 1 25.333 161.8081)" class="st0 st1 st2">Pattern</text>
+<text transform="matrix(1 0 0 1 0 29.1416)" class="st0 st1 st3">KMP example</text>
+<rect x="138.167" y="129.642" class="st4" width="49.875" height="49"/>
+<rect x="188.042" y="129.642" class="st4" width="49.875" height="49"/>
+<rect x="237.917" y="129.642" class="st4" width="49.875" height="49"/>
+<rect x="287.792" y="129.642" class="st4" width="49.875" height="49"/>
+<rect x="337.667" y="129.642" class="st5" width="49.875" height="49"/>
+<rect x="387.542" y="129.642" class="st6" width="49.875" height="49"/>
+<text transform="matrix(1 0 0 1 153.4731 165.8511)" class="st7 st8">A</text>
+<text transform="matrix(1 0 0 1 253.4731 165.8511)" class="st7 st8">C</text>
+<text transform="matrix(1 0 0 1 204 165.8081)" class="st7 st8">B</text>
+<text transform="matrix(1 0 0 1 353.4731 165.8511)" class="st7 st8">B</text>
+<text transform="matrix(1 0 0 1 303 165.8081)" class="st7 st8">A</text>
+<text transform="matrix(1 0 0 1 402 165.4751)" class="st7 st8">D</text>
+<text transform="matrix(1 0 0 1 454.6665 166.1416)" class="st0 st9 st8">1</text>
+<rect x="289.167" y="204.642" class="st4" width="49.875" height="49"/>
+<rect x="339.042" y="204.642" class="st5" width="49.875" height="49"/>
+<rect x="388.917" y="204.642" class="st6" width="49.875" height="49"/>
+<rect x="438.792" y="204.642" class="st6" width="49.875" height="49"/>
+<rect x="488.667" y="204.642" class="st6" width="49.875" height="49"/>
+<rect x="538.542" y="204.642" class="st6" width="49.875" height="49"/>
+<text transform="matrix(1 0 0 1 304.4731 240.8511)" class="st7 st8">A</text>
+<text transform="matrix(1 0 0 1 404.4731 240.8511)" class="st7 st8">C</text>
+<text transform="matrix(1 0 0 1 355 240.8081)" class="st7 st8">B</text>
+<text transform="matrix(1 0 0 1 504.4731 240.8511)" class="st7 st8">B</text>
+<text transform="matrix(1 0 0 1 454 240.8081)" class="st7 st8">A</text>
+<text transform="matrix(1 0 0 1 553 240.4751)" class="st7 st8">D</text>
+<text transform="matrix(1 0 0 1 605.6665 241.1416)" class="st0 st9 st8">2</text>
+<rect x="138.167" y="54.642" class="st10" width="49.875" height="49"/>
+<rect x="188.042" y="54.642" class="st10" width="49.875" height="49"/>
+<rect x="237.917" y="54.642" class="st10" width="49.875" height="49"/>
+<rect x="287.792" y="54.642" class="st10" width="49.875" height="49"/>
+<rect x="337.667" y="54.642" class="st10" width="49.875" height="49"/>
+<rect x="387.542" y="54.642" class="st10" width="49.875" height="49"/>
+<rect x="437.417" y="54.642" class="st10" width="49.875" height="49"/>
+<rect x="487.292" y="54.642" class="st10" width="49.875" height="49"/>
+<text transform="matrix(1 0 0 1 153.4731 90.8511)" class="st7 st8">A</text>
+<text transform="matrix(1 0 0 1 253.4731 90.8511)" class="st7 st8">C</text>
+<text transform="matrix(1 0 0 1 204 90.8081)" class="st7 st8">B</text>
+<text transform="matrix(1 0 0 1 353.4731 90.8511)" class="st7 st8">C</text>
+<text transform="matrix(1 0 0 1 303 90.8081)" class="st7 st8">A</text>
+<text transform="matrix(1 0 0 1 402 90.4751)" class="st7 st8">C</text>
+<rect x="537.292" y="54.642" class="st10" width="49.875" height="49"/>
+<text transform="matrix(1 0 0 1 454 90.8081)" class="st7 st8">A</text>
+<text transform="matrix(1 0 0 1 502.4731 90.8511)" class="st7 st8">B</text>
+<text transform="matrix(1 0 0 1 552 90.8081)" class="st7 st8">D</text>
 </svg>

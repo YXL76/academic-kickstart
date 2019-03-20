@@ -7,28 +7,60 @@
   title = "YXL的小屋"
   [zh.params]
     description = ""
-
-[[zh.menu.main]]
-  name = "关于"
-  url = ""
-  weight = 15
-
+  
 [[zh.menu.main]]	
   name = "文章"
   url = "/post"
-  weight = 25
+  weight = 15
+  identifier = "Post"
 
-[[zh.menu.main]]
+[[zh.menu.main]]	
+  name = "最新"
+  url = "/post"
+  weight = 25
+  parent = "Post"
+  
+[[zh.menu.main]]	
+  name = "最早"
+  url = "/post/2"
+  weight = 35
+  parent = "Post"
+
+[[zh.menu.main]]	
+  name = "索引"
+  weight = 45
+  identifier = "Index"
+
+[[zh.menu.main]]	
   name = "类别"
   url = "/categories"
   weight = 55
+  parent = "Index"
 
-[[zh.menu.main]]
+[[zh.menu.main]]	
   name = "标签"
   url = "/tags"
   weight = 65
+  parent = "Index"
+
+[[zh.menu.main]]
+  name = "关于"
+  weight = 75
+  identifier = "About"
   
+[[zh.menu.main]]
+  name = "关于我"
+  url = ""
+  weight = 85
+  parent = "About"
+  
+[[zh.menu.main]]
+  name = "日志"
+  url = "/log"
+  weight = 95
+  parent = "About"
+
 [[zh.menu.main]]
   name = "GitHub"
   url = "https://github.com/YXL76"
-  weight = 75
+  weight = 105
