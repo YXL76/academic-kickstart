@@ -9,8 +9,7 @@ subtitle = "欢迎来到这里！"
   columns = "1"
 
 [design.background]
-  # image = "Connection-746661664-by-wlop.webp"
-  image = "https://gitee.com/YXL76/academic-kickstart/raw/master/static/img/Connection-746661664-by-wlop.webp"
+  image = "Connection-746661664-by-wlop.webp"
   text_color_light = true
 
 [advanced]
