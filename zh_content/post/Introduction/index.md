@@ -20,7 +20,7 @@ categories = ["杂谈"]
 
 [header]
   # image = "Connection-746661664-by-wlop.webp"
-  image = "https://yxl-blog.oss-cn-beijing.aliyuncs.com/img/Connection-746661664-by-wlop.webp"
+  image = "https://gitee.com/YXL76/academic-kickstart/raw/master/static/img/Connection-746661664-by-wlop.webp"
   caption = "图片来源： [**wlop**](https://www.deviantart.com/wlop/art/Connection-746661664/)"
 +++
 
@@ -50,8 +50,8 @@ const ap = new APlayer({
 		artist: 'Ken Arai',
         //url: '../../../music/NEXT TO YOU-Ken Arai.mp3',
 		//cover: '../../../music/NEXT TO YOU-Ken Arai.jpg',
-		url: 'https://yxl-blog.oss-cn-beijing.aliyuncs.com/music/NEXT%20TO%20YOU-Ken%20Arai.mp3',
-		cover: 'https://yxl-blog.oss-cn-beijing.aliyuncs.com/music/NEXT%20TO%20YOU-Ken%20Arai.jpg',
+		url: 'http://pop5orv74.bkt.clouddn.com/music/NEXT%20TO%20YOU-Ken%20Arai.mp3',
+		cover: 'https://dev.tencent.com/u/YXL-76/p/academic-kickstart/git/raw/master/static/music/NEXT%20TO%20YOU-Ken%20Arai.jpg',
 		mutex: true,
 		listFolded: true,
     }],

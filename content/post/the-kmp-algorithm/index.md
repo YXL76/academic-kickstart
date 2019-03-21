@@ -20,7 +20,7 @@ categories = ["Algorithm"]
 
 [header]
   # image = "【東方】「はかなき夢ぞ命なりける」「KiTA」[pid=62341877].webp"
-  image = "https://yxl-blog.oss-cn-beijing.aliyuncs.com/img/%E3%80%90%E6%9D%B1%E6%96%B9%E3%80%91%E3%80%8C%E3%81%AF%E3%81%8B%E3%81%AA%E3%81%8D%E5%A4%A2%E3%81%9E%E5%91%BD%E3%81%AA%E3%82%8A%E3%81%91%E3%82%8B%E3%80%8D%E3%80%8CKiTA%E3%80%8D%5Bpid%3D62341877%5D.webp"
+  image = "https://gitee.com/YXL76/academic-kickstart/raw/master/static/img/%E3%80%90%E6%9D%B1%E6%96%B9%E3%80%91%E3%80%8C%E3%81%AF%E3%81%8B%E3%81%AA%E3%81%8D%E5%A4%A2%E3%81%9E%E5%91%BD%E3%81%AA%E3%82%8A%E3%81%91%E3%82%8B%E3%80%8D%E3%80%8CKiTA%E3%80%8D%5Bpid=62341877%5D.webp"
   caption = "Image credit: [**KiTA**](https://www.pixiv.net/member_illust.php?mode=medium&illust_id=62341877)"
 
 +++
@@ -74,8 +74,8 @@ const ap = new APlayer({
 		artist: 'Lefty Hand Cream',
         //url: '../../../music/新宝島-Lefty Hand Cream.mp3',
 		//cover: '../../../music/新宝島-Lefty Hand Cream.jpg',
-		url: 'https://yxl-blog.oss-cn-beijing.aliyuncs.com/music/%E6%96%B0%E5%AE%9D%E5%B3%B6-Lefty%20Hand%20Cream.mp3',
-		cover: 'https://yxl-blog.oss-cn-beijing.aliyuncs.com/music/%E6%96%B0%E5%AE%9D%E5%B3%B6-Lefty%20Hand%20Cream.jpg',
+		url: 'http://pop5orv74.bkt.clouddn.com/music/%E6%96%B0%E5%AE%9D%E5%B3%B6-Lefty%20Hand%20Cream.mp3',
+		cover: 'https://dev.tencent.com/u/YXL-76/p/academic-kickstart/git/raw/master/static/music/%E6%96%B0%E5%AE%9D%E5%B3%B6-Lefty%20Hand%20Cream.jpg',
 		mutex: true,
 		listFolded: true,
     }],

@@ -10,7 +10,7 @@ subtitle = "Welcome here!"
 
 [design.background]
   # image = "Connection-746661664-by-wlop.webp"
-  image = "https://yxl-blog.oss-cn-beijing.aliyuncs.com/img/Connection-746661664-by-wlop.webp"
+  image = "https://gitee.com/YXL76/academic-kickstart/raw/master/static/img/Connection-746661664-by-wlop.webp"
   text_color_light = true
 
 [advanced]
