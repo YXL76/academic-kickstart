@@ -22,7 +22,7 @@
   
 [[zh.menu.main]]	
   name = "最早"
-  url = "/post/2"
+  url = "/post"
   weight = 35
   parent = "Post"
 

@@ -12,7 +12,7 @@
   
 [[main]]	
   name = "Oldest"
-  url = "/post/2"
+  url = "/post"
   weight = 30
   parent = "Post"
 

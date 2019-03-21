@@ -20,68 +20,28 @@ categories = ["算法"]
 
 [header]
   # image = "【東方】「はかなき夢ぞ命なりける」「KiTA」[pid=62341877].webp"
-  image = "https://gitee.com/YXL76/academic-kickstart/raw/master/static/img/%E3%80%90%E6%9D%B1%E6%96%B9%E3%80%91%E3%80%8C%E3%81%AF%E3%81%8B%E3%81%AA%E3%81%8D%E5%A4%A2%E3%81%9E%E5%91%BD%E3%81%AA%E3%82%8A%E3%81%91%E3%82%8B%E3%80%8D%E3%80%8CKiTA%E3%80%8D%5Bpid=62341877%5D.webp"
+  image = "http://pop5orv74.bkt.clouddn.com/img/%E3%80%90%E6%9D%B1%E6%96%B9%E3%80%91%E3%80%8C%E3%81%AF%E3%81%8B%E3%81%AA%E3%81%8D%E5%A4%A2%E3%81%9E%E5%91%BD%E3%81%AA%E3%82%8A%E3%81%91%E3%82%8B%E3%80%8D%E3%80%8CKiTA%E3%80%8D%5Bpid=62341877%5D.webp"
   caption = "Image credit: [**KiTA**](https://www.pixiv.net/member_illust.php?mode=medium&illust_id=62341877)"
 
 +++
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/1008d0ba-6d9b-4a11-9b41-2326f3c096f2/deploy-status)](https://app.netlify.com/sites/yxl/deploys)
 
-<link rel="stylesheet" href="../../../kosugi-maru.css">
+<link rel="stylesheet" href="../../../css/kosugi-maru.css">
 <link rel="stylesheet" href="../../../css/APlayer.min.css">
-<div id="aplayer">
-	<pre class="aplayer-lrc-content">
-        [00:28.40]次と その次と
-        [00:35.25]その次と線を引き続けた
-        [00:42.47]次の目的地を描くんだ
-        [00:52.76]宝島
-        [00:57.53]このまま君を連れて行くと
-        [01:04.29]丁寧に描くと
-        [01:11.86]揺れたり震えたりした線で
-        [01:18.43]丁寧に描く と決めていたよ
-        [01:39.92]次も その次も
-        [01:46.82]その次もまだ目的地じゃない
-        [01:54.37]夢の景色を探すんだ
-        [02:04.55]宝島
-        [02:09.09]このまま君を連れて行くと
-        [02:15.60]丁寧に歌うと
-        [02:23.38]揺れたり震えたりしたって
-        [02:30.12]丁寧に歌う と決めてたけど
-        [03:06.60]このまま君を連れて行くよ
-        [03:13.20]丁寧に描くよ
-        [03:20.74]揺れたり震えたりしたって
-        [03:27.40]丁寧に歌うよ
-        [03:35.18]それでも君を連れて行くよ
-        [03:49.56]揺れたり震えたりした線で
-        [03:59.81]描くよ 君の歌を
-    </pre>
-</div>
 <script src="../../../js/APlayer.min.js"></script>
+<script src="../../../js/Meting.js"></script>
 
-<script>
-const ap = new APlayer({
-    container: document.getElementById('aplayer'),
-	fixed: false,
-	mini: false,
-	autoplay: true,
-	theme: '#b7daff',
-	loop: 'all',
-	order: 'list',
-	preload: 'auto',
-	volume: 0.8,
-    audio: [{
-		name: '新宝島',
-		artist: 'Lefty Hand Cream',
-        //url: '../../../music/新宝島-Lefty Hand Cream.mp3',
-		//cover: '../../../music/新宝島-Lefty Hand Cream.jpg',
-		url: 'http://pop5orv74.bkt.clouddn.com/music/%E6%96%B0%E5%AE%9D%E5%B3%B6-Lefty%20Hand%20Cream.mp3',
-		cover: 'https://dev.tencent.com/u/YXL-76/p/academic-kickstart/git/raw/master/static/music/%E6%96%B0%E5%AE%9D%E5%B3%B6-Lefty%20Hand%20Cream.jpg',
-		mutex: true,
-		listFolded: true,
-    }],
-	lrcType: 2,
-});
-</script>
+<meting-js
+	server = "netease"
+	type = "song"
+	id = "1327337964"
+	fixed= false
+	mini= false
+	autoplay = true
+	preload = 'auto'
+	volume = 0.8>
+</meting-js>
 
 <font size=2>*本文不讨论KMP算法的‘所以然’，只以尽量简单的方式讲明白KMP算法的实现，若要更深层次学习请参考其他资料*</font>
 
