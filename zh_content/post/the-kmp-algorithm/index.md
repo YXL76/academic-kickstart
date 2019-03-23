@@ -19,8 +19,7 @@ categories = ["算法"]
   preview_only = true
 
 [header]
-  # image = "【東方】「はかなき夢ぞ命なりける」「KiTA」[pid=62341877].webp"
-  image = "http://pop5orv74.bkt.clouddn.com/img/%E3%80%90%E6%9D%B1%E6%96%B9%E3%80%91%E3%80%8C%E3%81%AF%E3%81%8B%E3%81%AA%E3%81%8D%E5%A4%A2%E3%81%9E%E5%91%BD%E3%81%AA%E3%82%8A%E3%81%91%E3%82%8B%E3%80%8D%E3%80%8CKiTA%E3%80%8D%5Bpid=62341877%5D.webp"
+  image = "【東方】「はかなき夢ぞ命なりける」「KiTA」[pid=62341877].webp"
   caption = "Image credit: [**KiTA**](https://www.pixiv.net/member_illust.php?mode=medium&illust_id=62341877)"
 
 +++

@@ -19,8 +19,7 @@ categories = ["Kaggle"]
   preview_only = true
 
 [header]
-  # image = "【pixivファンタジアLS】「【PFLS】 -冻土の彼方 st.1.7-」「超凶の狄璐卡」[pid=73392971].webp"
-  image = "http://pop5orv74.bkt.clouddn.com/img/%E3%80%90pixiv%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%82%A2LS%E3%80%91%E3%80%8C%E3%80%90PFLS%E3%80%91%20-%E5%86%BB%E5%9C%9F%E3%81%AE%E5%BD%BC%E6%96%B9%20st.1.7-%E3%80%8D%E3%80%8C%E8%B6%85%E5%87%B6%E3%81%AE%E7%8B%84%E7%92%90%E5%8D%A1%E3%80%8D%5Bpid=73392971%5D.webp"
+  image = "【pixivファンタジアLS】「【PFLS】 -冻土の彼方 st.1.7-」「超凶の狄璐卡」[pid=73392971].webp"
   caption = "图片来源： [**超凶の狄璐卡**](https://www.pixiv.net/member_illust.php?mode=medium&illust_id=73392971)"
 
 +++

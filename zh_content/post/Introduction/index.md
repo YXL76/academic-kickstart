@@ -19,8 +19,7 @@ categories = ["杂谈"]
   preview_only = true
 
 [header]
-  # image = "Connection-746661664-by-wlop.webp"
-  image = "http://pop5orv74.bkt.clouddn.com/img/Connection-746661664-by-wlop.webp"
+  image = "Connection-746661664-by-wlop.webp"
   caption = "图片来源： [**wlop**](https://www.deviantart.com/wlop/art/Connection-746661664/)"
 +++
 
