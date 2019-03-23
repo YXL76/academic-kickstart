@@ -7,6 +7,7 @@ title = "Introduction"
 
 author = "admin"
 
-[advanced]
-  css_style = "background: Gainsboro;"
+[design.background]
+  image = "Connection-746661664-by-wlop.webp"
+  text_color_light = true
 +++
