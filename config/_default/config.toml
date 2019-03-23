@@ -4,7 +4,7 @@ baseurl = "/"
 
 copyright = "Copyright © 2019-2019 yxl.netlify.com All Rights Reserved!"
 
-googleAnalytics = ""
+googleAnalytics = "UA-136782661-1"
 
 disqusShortname = "yxl76-zh"
 
