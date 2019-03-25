@@ -2,6 +2,9 @@
 title = "Log"
 +++
 
+<div id="progress-left"></div>
+<div id="progress-right"></div>
+
 <link rel="stylesheet" href="../../css/kosugi-maru.css">
 <link rel="stylesheet" href="../../css/APlayer.min.css">
 <script src="../../js/APlayer.min.js"></script>
@@ -18,8 +21,10 @@ title = "Log"
 	volume = 0.8>
 </meting-js>
 
-- 2019/03/20 Completed the personalization of the website.
+- 2019/03/25 &nbsp;&nbsp;&nbsp;&nbsp; Beautify the site once again, with a top progress bar, underlined navigation which is auto-hide. At the same time, the theme of the article page was redesigned (imitation of the Microsoft Store).
 
-- 2019/03/19 Published the first blog.
+- 2019/03/20 &nbsp;&nbsp;&nbsp;&nbsp; Completed the personalization of the website.
 
-- 2019/03/15 Building a station.
+- 2019/03/19 &nbsp;&nbsp;&nbsp;&nbsp; Published the first blog.
+
+- 2019/03/15 &nbsp;&nbsp;&nbsp;&nbsp; Building a station.

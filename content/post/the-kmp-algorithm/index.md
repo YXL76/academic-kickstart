@@ -26,6 +26,9 @@ categories = ["Algorithm"]
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/1008d0ba-6d9b-4a11-9b41-2326f3c096f2/deploy-status)](https://app.netlify.com/sites/yxl/deploys)
 
+<div id="progress-left"></div>
+<div id="progress-right"></div>
+
 <link rel="stylesheet" href="../../../css/kosugi-maru.css">
 <link rel="stylesheet" href="../../../css/APlayer.min.css">
 <script src="../../../js/APlayer.min.js"></script>

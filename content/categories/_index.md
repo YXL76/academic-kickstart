@@ -2,6 +2,9 @@
 title = "Categories"
 +++
 
+<div id="progress-left"></div>
+<div id="progress-right"></div>
+
 <link rel="stylesheet" href="../../css/APlayer.min.css">
 <script src="../../js/APlayer.min.js"></script>
 <script src="../../js/Meting.js"></script>

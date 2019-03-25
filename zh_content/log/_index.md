@@ -2,6 +2,9 @@
 title = "日志"
 +++
 
+<div id="progress-left"></div>
+<div id="progress-right"></div>
+
 <link rel="stylesheet" href="../../css/kosugi-maru.css">
 <link rel="stylesheet" href="../../css/APlayer.min.css">
 <script src="../../js/APlayer.min.js"></script>
@@ -18,9 +21,10 @@ title = "日志"
 	volume = 0.8>
 </meting-js>
 
-- 2019/03/20  完成了对网站的个性化。
+- 2019/03/25 &nbsp;&nbsp;&nbsp;&nbsp; 又一次美化了网站，添加了顶部进度条、导航栏下划线和自动隐藏。同时重新设计了文章页的主题（模仿Microsoft Store）。
 
-- 2019/03/19  发表了第一篇博客。
+- 2019/03/20 &nbsp;&nbsp;&nbsp;&nbsp; 第一次对网站个性化。
 
-- 2019/03/15  建站。
+- 2019/03/19 &nbsp;&nbsp;&nbsp;&nbsp; 发表了第一篇博客。
 
+- 2019/03/15 &nbsp;&nbsp;&nbsp;&nbsp; 建站。
