@@ -6,6 +6,7 @@ title = "标签"
 <div id="progress-right"></div>
 
 <link rel="stylesheet" href="../../css/APlayer.min.css">
+<link rel="stylesheet" href="../../css/wave.css">
 <script src="../../js/APlayer.min.js"></script>
 <script src="../../js/Meting.js"></script>
 
