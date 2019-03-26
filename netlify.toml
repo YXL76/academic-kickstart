@@ -10,11 +10,11 @@
   HUGO_ENV = "production"
 
 [[redirects]]
-  from = "/en"
-  to = "en/404.html"
+  from = "/en/*"
+  to = "en/404"
   status = 404
   
 [[redirects]]
-  from = "/zh"
-  to = "zh/404.html"
+  from = "/zh/*"
+  to = "zh/404"
   status = 404
