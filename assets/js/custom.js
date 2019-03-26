@@ -1,6 +1,6 @@
 let m1 = 0;
-let m2 = 0;
-let timer = null;
+//let m2 = 0;
+//let timer = null;
 
 let pageHeight = document.body.scrollHeight || document.documentElement.scrollHeight;
 let windowHeight = document.documentElement.clientHeight || document.body.clientHeight;
@@ -14,14 +14,14 @@ document.onscroll = function () {
 
   clearTimeout(timer)
   timer = setTimeout("Judge()", 1000);
-  document.getElementById("navbar-main").style.transform = "translateY(0%)";
+  //document.getElementById("navbar-main").style.transform = "translateY(0%)";
 }
 
 function Judge() {
-  m2 = document.documentElement.scrollTop || document.body.scrollTop;
+  /*m2 = document.documentElement.scrollTop || document.body.scrollTop;
   if (m2 == m1 && m2 != 0) {
     document.getElementById("navbar-main").style.transform = "translateY(-105%)";
-  }
+  }*/
 }
 
 (function () {

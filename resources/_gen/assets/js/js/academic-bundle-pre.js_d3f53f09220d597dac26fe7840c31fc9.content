@@ -31,9 +31,9 @@ function render(template,data){let key,find,re;for(key in data){find='\\{\\{\\s*
 return template;}
 if(typeof Fuse==='function'){$.getJSON(search_index_filename,function(search_index){let fuse=new Fuse(search_index,fuseOptions);if(query=getSearchQuery('q')){$("body").addClass('searching');$('.search-results').css({opacity:0,visibility:"visible"}).animate({opacity:1},200);$("#search-query").val(query);$("#search-query").focus();initSearch(true,fuse);}
 $('#search-query').keyup(function(e){clearTimeout($.data(this,'searchTimer'));if(e.keyCode==13){initSearch(true,fuse);}else{$(this).data('searchTimer',setTimeout(function(){initSearch(false,fuse);},250));}});});}
-let m1=0;let m2=0;let timer=null;let pageHeight=document.body.scrollHeight||document.documentElement.scrollHeight;let windowHeight=document.documentElement.clientHeight||document.body.clientHeight;let scrollAvail=pageHeight-windowHeight;document.onscroll=function(){m1=document.documentElement.scrollTop||document.body.scrollTop;let p=(m1/scrollAvail)*100;document.getElementById("progress-left").style.width=p+'%';document.getElementById("progress-right").style.width=(100-p)+'%';clearTimeout(timer)
-timer=setTimeout("Judge()",1000);document.getElementById("navbar-main").style.transform="translateY(0%)";}
-function Judge(){m2=document.documentElement.scrollTop||document.body.scrollTop;if(m2==m1&&m2!=0){document.getElementById("navbar-main").style.transform="translateY(-105%)";}}
+let m1=0;let pageHeight=document.body.scrollHeight||document.documentElement.scrollHeight;let windowHeight=document.documentElement.clientHeight||document.body.clientHeight;let scrollAvail=pageHeight-windowHeight;document.onscroll=function(){m1=document.documentElement.scrollTop||document.body.scrollTop;let p=(m1/scrollAvail)*100;document.getElementById("progress-left").style.width=p+'%';document.getElementById("progress-right").style.width=(100-p)+'%';clearTimeout(timer)
+timer=setTimeout("Judge()",1000);}
+function Judge(){}
 (function(){var vendorPrefix=getBrowserPrefix();var eventName=visibilityEvent(vendorPrefix);document.addEventListener(eventName,visibilityEventCallback);var oldTitle=document.title;function visibilityEventCallback(){if(document.hidden){oldTitle=document.title;document.title="::>_<:: QAQ";}else{document.title=oldTitle;}}
 function getBrowserPrefix(){if('hidden'in document){return null;}
 var browserPrefixes=['moz','ms','o','webkit'];for(var i=0;i<browserPrefixes.length;i++){var prefix=browserPrefixes[i]+'Hidden';if(prefix in document){return browserPrefixes[i];}}
