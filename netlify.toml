@@ -11,10 +11,10 @@
 
 [[redirects]]
   from = "/en/*"
-  to = "en/404"
+  to = "/en/404/"
   status = 404
   
 [[redirects]]
   from = "/zh/*"
-  to = "zh/404"
+  to = "/zh/404/"
   status = 404
