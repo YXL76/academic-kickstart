@@ -22,6 +22,8 @@ title = "日志"
 	volume = 0.8>
 </meting-js>
 
+- 2019/03/27 &nbsp;&nbsp;&nbsp;&nbsp; 增添了大量的动画，同时加入了自定义的404 Page。
+
 - 2019/03/25 &nbsp;&nbsp;&nbsp;&nbsp; 又一次美化了网站，添加了顶部进度条、导航栏下划线和自动隐藏。同时重新设计了文章页的主题（模仿Microsoft Store）。
 
 - 2019/03/20 &nbsp;&nbsp;&nbsp;&nbsp; 第一次对网站个性化。
