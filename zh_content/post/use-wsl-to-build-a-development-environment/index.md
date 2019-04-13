@@ -1,7 +1,7 @@
 +++
 title = "使用wsl搭建开发环境"
-subtitle = ""
-summary = ""
+subtitle = "在 Windows 上优雅地进行开发"
+summary = "总结我在配置 WSL 中得到的经验"
 
 date = 2019-04-12T21:51:30+08:00
 draft = false
@@ -91,7 +91,7 @@ categories = ["系统"]
 
 <h3 id='What-is-WSL'> 什么是 WSL ？ </h3>
 
-Windows的Linux子系统（WSL）是一种新的Windows 10功能，使您可以直接在Windows上运行本机Linux命令行工具，以及传统的Windows桌面和现代商店应用程序。
+Windows 的 Linux 子系统（WSL）是一种新的 Windows 10 功能，使您可以直接在 Windows 上运行本机 Linux 命令行工具，以及传统的 Windows 桌面和现代商店应用程序。
 
 <h3 id='What-are-the-advantages-of-WSL'>  WSL 的优势是什么？ </h3>
 

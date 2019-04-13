@@ -1,7 +1,7 @@
 +++
 title = "Use Wsl to Build a Development Environment"
-subtitle = ""
-summary = ""
+subtitle = "Develop gracefully on Windows"
+summary = "Summarize my experience in configuring WSL"
 
 date = 2019-04-12T21:51:30+08:00
 draft = false
