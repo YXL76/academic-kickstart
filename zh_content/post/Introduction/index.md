@@ -25,6 +25,10 @@ categories = ["杂谈"]
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/1008d0ba-6d9b-4a11-9b41-2326f3c096f2/deploy-status)](https://app.netlify.com/sites/yxl/deploys)
 
+{{% alert note %}}
+若手机端出现显示异常，请在菜单栏中关闭夜间模式。
+{{% /alert %}}
+
 <div id="progress-left"></div>
 <div id="progress-right"></div>
 

@@ -26,6 +26,10 @@ categories = ["Algorithm"]
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/1008d0ba-6d9b-4a11-9b41-2326f3c096f2/deploy-status)](https://app.netlify.com/sites/yxl/deploys)
 
+{{% alert note %}}
+If the display on the mobile phone is abnormal, please turn off the night mode in the menu bar.
+{{% /alert %}}
+
 <div id="progress-left"></div>
 <div id="progress-right"></div>
 
