@@ -66,7 +66,7 @@ If the display on the mobile phone is abnormal, please turn off the night mode i
   6. [AUR helper](#AUR-helper)
 3. [Use zsh/bash instead of windows terminal](#Use-zsh/bash-instead-of-windows-terminal)
 4. [Develop under Winodws](#Develop-under-Winodws)
-  1. [环境安装](#Environmental-Installation)
+  1. [Environmental Installation](#Environmental-Installation)
   2. [VSCode](#VSCode)
   3. [Clion](#Clion)
   4. [PyCharm](#PyCharm)
@@ -75,6 +75,7 @@ If the display on the mobile phone is abnormal, please turn off the night mode i
   2. [X Client](#X-Client)
   3. [VSCode](#VSCode-2)
   4. [Chinese Font Installation](#Chinese-Font-Installation)
+  5. [Jupyter Notebook](#Jupyter-Notebook)
 6. [High Level Operation](#High-Level-Operation)
   1. [GUI Software for ssh Connection](#GUI-Software-for-ssh-Connection)
   2. [Desktop Environment](#Desktop-Environment)
@@ -492,7 +493,7 @@ sudo pacman -S adobe-source-code-pro-fonts
 npm install git://github.com/adobe-fonts/source-code-pro.git#release
 ```
 
-<h3 id=''> Jupyter Notebook </h3>
+<h3 id='Jupyter-Notebook'> Jupyter Notebook </h3>
 
 - Installation
 

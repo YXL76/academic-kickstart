@@ -75,6 +75,7 @@ categories = ["系统"]
   2. [X Client](#X-Client)
   3. [VSCode](#VSCode-2)
   4. [中文字体安装](#Chinese-Font-Installation)
+  5. [Jupyter Notebook](#Jupyter-Notebook)
 6. [高阶玩法](#High-Level-Operation)
   1. [ssh 连接中使用 GUI 软件](#GUI-Software-for-ssh-Connection)
   2. [桌面环境](#Desktop-Environment)
@@ -493,7 +494,7 @@ sudo pacman -S adobe-source-code-pro-fonts
 npm install git://github.com/adobe-fonts/source-code-pro.git#release
 ```
 
-<h3 id=''> Jupyter Notebook </h3>
+<h3 id='Jupyter-Notebook'> Jupyter Notebook </h3>
 
 - 安装
 
