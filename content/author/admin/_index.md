@@ -14,9 +14,7 @@ bio = ""
 email = "chenxin.lan.76@gmail.com"
 
 interests = [
-  "Coding",
   "ACGN",
-  "Jay Chou"
 ]
 
 user_groups = ["Researchers", "Visitors"]
@@ -43,7 +41,6 @@ user_groups = ["Researchers", "Visitors"]
 +++
 
 - man.
-- 24 years old.
+- 24 years old(lifelike).
 - student.
-
-    I'm just an ordinary guy, with nothing to show. 
+- The little ghost who scribbles a profile is scrap.

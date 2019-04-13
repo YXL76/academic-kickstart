@@ -14,4 +14,5 @@ subtitle = "Welcome here!"
 
 [advanced]
   css_class = "white-color"
+  css_style = "height: 720px"
 +++

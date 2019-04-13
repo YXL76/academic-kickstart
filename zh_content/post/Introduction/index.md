@@ -45,6 +45,4 @@ categories = ["杂谈"]
 
 大家好，我是YXL。
 
-这是我的第一篇博客。
-
 从今天开始，我将在[www.yxl76.top](https://www.yxl76.top/)发布我的博文。

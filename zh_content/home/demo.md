@@ -14,4 +14,5 @@ subtitle = "欢迎来到这里！"
 
 [advanced]
   css_class = "white-color"
+  css_style = "height: 720px"
 +++

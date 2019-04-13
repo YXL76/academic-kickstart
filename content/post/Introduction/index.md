@@ -45,6 +45,4 @@ categories = ["Miscellaneous"]
 
 Hello, I’m YXL.
 
-This is my first blog.
-
 I will write my blogs at [www.yxl76.top](https://www.yxl76.top/) from now on.

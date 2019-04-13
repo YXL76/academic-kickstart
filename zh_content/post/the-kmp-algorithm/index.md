@@ -20,7 +20,7 @@ categories = ["算法"]
 
 [header]
   image = "【東方】「はかなき夢ぞ命なりける」「KiTA」[pid=62341877].webp"
-  caption = "Image credit: [**KiTA**](https://www.pixiv.net/member_illust.php?mode=medium&illust_id=62341877)"
+  caption = "图片来源: [**KiTA**](https://www.pixiv.net/member_illust.php?mode=medium&illust_id=62341877)"
 
 +++
 
@@ -219,4 +219,4 @@ int GetNext_KMP()
 - *BF算法：Brute Force算法*
 - *MP算法：Morris-Pratt算法*
 - *KMP算法：Knuth-Morris-Pratt算法*
-- *[参考代码](https://github.com/YXL76/Data-Structures-and-Algorithms/blob/master/Data%20Structures%20and%20Algorithms/include/algorithm/yxlStringAlgorithm.h)*
+- *[参考代码](https://github.com/YXL76/my-cpp-library/blob/master/my-cpp-library/include/Algorithm/StringAlgorithm.h)*

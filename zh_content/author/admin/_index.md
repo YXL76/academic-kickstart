@@ -14,9 +14,7 @@ bio = ""
 email = "chenxin.lan.76@gmail.com"
 
 interests = [
-  "码代码",
   "ACGN",
-  "周杰伦"
 ]
 
 user_groups = ["Researchers", "Visitors"]
@@ -42,8 +40,7 @@ user_groups = ["Researchers", "Visitors"]
   link = "https://github.com/YXL76"
 +++
 
-- 男.
-- 24岁.
-- 是学生.
-
-    我只是一个普通人，没有什么能够展示的。
+- 男。
+- 24岁（迫真）。
+- 是学生。
+- 乱写简介的小鬼是屑。

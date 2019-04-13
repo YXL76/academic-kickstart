@@ -264,6 +264,10 @@ img[alt="Netlify Status"] {
   color: #40BFF5;
 }
 
+#top > article > div > div > pre > code {
+  border-radius: 5px;
+}
+
 .kosugi-maru {
   font-family: 'Kosugi Maru', sans-serif !important;
 }

@@ -50,7 +50,7 @@
   
 [[zh.menu.main]]
   name = "关于我"
-  url = ""
+  url = "/about"
   weight = 85
   parent = "About"
   
