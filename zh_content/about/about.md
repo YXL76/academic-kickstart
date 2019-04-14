@@ -8,6 +8,6 @@ title = "简介"
 author = "admin"
   
 [design.background]
-  image = "Connection-746661664-by-wlop.webp"
+  image = "background.webp"
   text_color_light = true
 +++
